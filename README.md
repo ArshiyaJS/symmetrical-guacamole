@@ -2,8 +2,9 @@
 <p>
   Hi There! I am Arshiya, and this is Mehar, well you can't see us, but take a look at us in the notebook or slides ;) This is part of our SC1015 Intro to Data Science & Artificial Intelligence, our mini project!
 </p>
+
 <p>
-  Our project is about Exploratory Data Analysis & Machine Learning Techniques, so grab a pop corn, and a drink, you're in for a long ride :)
+  Our project is about Exploratory Data Analysis & Machine Learning Techniques, so grab a popcorn, and a drink, and you're in for a long ride :)
 </p>
 <h1>About</h1>
 <p>
@@ -85,4 +86,11 @@ scikit-learn. (2014). sklearn.linear_model.LogisticRegression — scikit-learn 0
 
 WHO. (2023). Cardiovascular Diseases. World Health Organization. https://www.who.int/health-topics/cardiovascular-diseases#tab=tab_1
 
+<h1>That's All Folks!</h1>
+<p> Waittt!! Before you leave check out our YouTube video! 
+https://www.youtube.com/watch?v=yaqwlhmGllU
 
+
+  </p>
+
+  <p>Ok see you!</p>
