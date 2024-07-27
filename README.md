@@ -28,14 +28,12 @@
 </p>
 <h1>Contributers</h1>
 <p>
-  EDA, Cleaning and Feature Selection, and Models (MLP, Logistic Regression) done by me 🫶
+  EDA, Cleaning and Feature Selection, and Models (MLP, Logistic Regression) done by me @StrippedBanana - Arshiya Jawahar Ali Sirajudeen U2323132F 🫶
 </p>
 <p>
  Model (Random Forest Classifier) done by @MeharSethi - Mehar Sethi U2323314H
 </p>
-<p>
-  @StrippedBanana - Arshiya Jawahar Ali Sirajudeen U2323132F
-</p>
+
 
 <h1> Problem Definition</h1>
 <p>
