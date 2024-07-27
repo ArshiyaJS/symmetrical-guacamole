@@ -28,10 +28,10 @@
 </p>
 <h1>Contributers</h1>
 <p>
-  All contributions were made equally and fairly 🫶
+  EDA, Cleaning and Feature Selection, and Models (MLP, Logistic Regression) done by me 🫶
 </p>
 <p>
-  @MeharSethi - Mehar Sethi U2323314H
+ Model (Random Forest Classifier) done by @MeharSethi - Mehar Sethi U2323314H
 </p>
 <p>
   @StrippedBanana - Arshiya Jawahar Ali Sirajudeen U2323132F
